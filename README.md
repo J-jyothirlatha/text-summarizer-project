@@ -1,5 +1,5 @@
-# 📄 Text Analysis Module (Readability & QA)
-
+# Multi-level Text Summarizer – Readability & QA Module
+This module analyzes text readability and provides answers to user queries using NLP techniques.
 ## 👩‍💻 Author
 
 Jyothirlatha
@@ -61,6 +61,27 @@ To improve text understanding by:
 * Providing quick answers
 
 ---
+
+
+## 📊 Sample Output
+
+Flesch Reading Ease: 37  
+Gunning Fog: 14  
+SMOG Index: 12  
+
+Q: What is AI used for?  
+A: AI is used to automate tasks and improve decision-making.
+
+---
+
+
+## ▶️ How to Use
+1. Provide input text  
+2. Run readability.py  
+3. Ask questions using pdf_qa.py
+
+---
+
 
 ## 📌 Note
 
